@@ -33,7 +33,7 @@ venv.bak/
 logs/
 
 # Model
-chat_estrategia_e_balanceamento/src/data/model/
+src/src/data/model/
 
 # Python Package
 *.egg
