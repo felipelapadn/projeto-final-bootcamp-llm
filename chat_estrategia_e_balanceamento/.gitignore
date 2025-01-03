@@ -7,7 +7,7 @@
 *.pyd
 __pycache__/
 *.env
-.idea
+../.idea
 
 # Jupyter Notebook
 .ipynb_checkpoints
@@ -33,7 +33,7 @@ venv.bak/
 logs/
 
 # Model
-src/data/model/
+chat_estrategia_e_balanceamento/src/data/model/
 
 # Python Package
 *.egg
